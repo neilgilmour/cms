@@ -23,7 +23,7 @@
         "spatie/blink": "^1.1.2",
         "statamic/stringy": "^3.1",
         "symfony/var-exporter": "^4.3",
-        "symfony/yaml": "^4.1@dev",
+        "symfony/yaml": "^4.1@dev || ^5.0",
         "twistor/flysystem-guzzle": "^6.0",
         "webuni/commonmark-attributes-extension": "^1.0",
         "wilderborn/partyline": "^1.0"
